@@ -1,7 +1,7 @@
 {
-  "name": "koa2-ueditor",
+  "name": "koa2-ueditor-cos",
   "version": "1.0.1",
-  "description": "UEditor百度编辑器基于koa2的后端实现",
+  "description": "UEditor百度编辑器基于koa2的后端实现，并上传到腾讯云对象存储",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -15,15 +15,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sealice/koa2-ueditor.git"
+    "url": "https://github.com/xuyuyin/koa2-ueditor-cos.git"
   },
-  "homepage": "https://github.com/sealice/koa2-ueditor",
+  "homepage": "https://github.com/xuyuyin/koa2-ueditor-cos",
   "keywords": [
     "koa2",
     "nodejs",
     "ueditor",
+    "cos",
     "koa2-ueditor"
   ],
-  "author": "sealice",
+  "author": "tyreke.xu",
   "license": "MIT"
 }
